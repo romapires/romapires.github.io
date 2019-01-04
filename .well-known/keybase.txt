@@ -1,0 +1,53 @@
+https://keybase.io/romapires
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://romapires.com
+  * I am romapires (https://keybase.io/romapires) on keybase.
+  * I have a public key ASDBjOwJrOZYiJhtApZ2GfxwBDWcaXh59g-QZL76ruF-gAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f9394dc80c1427d3e177cf636f6faf33eb85d53df0f8c537df991c19e2813e860a",
+      "host": "keybase.io",
+      "kid": "0120c18cec09ace65888986d02967619fc7004359c697879f60f9064befaaee17e800a",
+      "uid": "ceca094279b4a9a67292d214145c7a19",
+      "username": "romapires"
+    },
+    "merkle_root": {
+      "ctime": 1546610643,
+      "hash": "5239d15d85280b62c64dec6db938460e49d30eab4f5e219298b11ea1a7909311970b3748870bc17bbb18030d6680074b96636b92c602acbd6993c309578ab6b0",
+      "hash_meta": "830c1e76cc4559257d2a426503e9f8979079f5ad27675b83e1cd48ed5dcf8b61",
+      "seqno": 4231148
+    },
+    "service": {
+      "entropy": "hlhms+SxQfQahMQ/hPLsTVkj",
+      "hostname": "romapires.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.6"
+  },
+  "ctime": 1546610660,
+  "expire_in": 504576000,
+  "prev": "7126cb0ecfe814361aa9e3f5f7865558e6088091fe6b33ca5a540242e1ecdb9c",
+  "seqno": 48,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwYzsCazmWIiYbQKWdhn8cAQ1nGl4efYPkGS++q7hfoAKp3BheWxvYWTESpcCMMQgcSbLDs/oFDYaqeP194ZVWOYIgJH+azPKWlQCQuHs25zEIPXN/K6wj++5qlpidrs7jojB3BFKsW20PT60knOwK3q2AgHCo3NpZ8RAuaIQezxo5waD45DjRQzXntxy4zYmHeKKTUTpNuJLbN3fvBxQxpXAnXL+xaWHe3Ktbyu66pKOUtUiQ34jCHLIAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOX7is1YtEQq3sAbtcsK7QL3kJwuuy20lo1iQ1LXrDQgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/romapires
